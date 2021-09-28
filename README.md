@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jstnbarker
+- 👀 I’m interested in making money and contributing to open source projects in the future
+- 🌱 I’m currently a CS student
